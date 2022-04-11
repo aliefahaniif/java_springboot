@@ -1,0 +1,6 @@
+Link
+1. Bilangan prima : https://whimsical.com/flowchart-bilangan-prima-LDWsb6b1nSH4Kg1FGdypCC
+	Sample test cases : https://whimsical.com/flowchart-bilangan-prima-test-cases-EaXLymt7PEkLpHnnsXihCV
+
+2. Lampu	  : https://whimsical.com/flowchart-lampu-Ua3nK2oQbyeFQvEJ2cZp26
+	Sample test cases : https://whimsical.com/flowchart-lampu-test-cases-AJeirC2voJrTiRam3YNEJd
